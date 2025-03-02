@@ -1,0 +1,4 @@
+_sensitive_/*
+*.log
+*.bat
+__pycache__/*
