@@ -1,1 +1,1 @@
-DESCRIBE releases;
+DESCRIBE p_releases;
